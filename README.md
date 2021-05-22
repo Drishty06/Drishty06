@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 🔵🟡🔴🟢🟠
   <br /><br /><img src="https://badges.pufler.dev/visits/Drishty06/Drishty06">
-<h3> Pursuing Computer Engineering - 1st Year🎓.<br /> I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies out there😎 
+<h3> 🟠Pursuing Computer Engineering - 1st Year🎓.<br /> I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies out there😎 
 <p align="left">
   <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
   
