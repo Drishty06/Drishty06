@@ -6,7 +6,7 @@
 <p align="left">
   <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
   
-&emsp;&emsp;<a href="https:https://www.linkedin.com/in/drishty-ganatra-ba07bb204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="drishty-ganatra" height="30" width="40" /></a>
+&emsp;&emsp;<a href="https://www.linkedin.com/in/drishty-ganatra-ba07bb204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
 &emsp;<a href="https://www.youtube.com/channel/UCxEWWftmjz4c-FTC7wvhVEg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Drishty Ganatra" height="30" width="40" /></a>
 &emsp;<a href="https://github.com/Drishty06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Drishty Ganatra" height="30" width="40" /></a>
 
