@@ -1,6 +1,7 @@
-<h1 align="left"> Hello World🌍, I'm Drishty Ganatra<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<h2> Pursuing Computer Engineering - 1st Year🎓.<br /> I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies out there😎
+<h1 align="left"> < Hello Coders🚀, I'm Drishty Ganatra<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+🔵🟡🔴🟢🟠
+<h3> Pursuing Computer Engineering - 1st Year🎓.<br /> I'm a zealous learner 🌈 - ever ready to seize the opportunity on my way💯 and having deepest cravings to explore new horizons of these beautiful technologies out there😎 <br /> <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Drishty06&label=Profile%20views&color=0e75b6&style=flat" alt="Drishty06" /> </p>
 
 <p align="left">
@@ -10,6 +11,7 @@
 <a href="https://github.com/Drishty06">
   <img align="center" alt="Drishty Ganatra's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 </p>
  
 🔴 I'm currently diving deeper into:
@@ -17,4 +19,6 @@
   <br />&emsp;🚀 Competitive Programming 
 <br />🔵 Show some Love💛 for chucklesome code explanations for various DSA Problems on My YouTube Channel😎
 
- 
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Drishty06&theme=radical&show_icons=true" alt="Drishty's Github Stats" />
+</p> 
