@@ -25,6 +25,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Drishty06&theme=radical&show_icons=true" />
 </div>
   
-![github graph](https://activity-graph.herokuapp.com/graph?username=Drishty06&theme=react-dark&hide_border=true)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=Drishty06&theme=react-dark&hide_border=true) -->
 <br>
+
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
